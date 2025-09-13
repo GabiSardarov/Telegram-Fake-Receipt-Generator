@@ -10,7 +10,7 @@ bold_font_path = "C:\\Windows\\Fonts\\courbd.ttf"
 regular_font_path = "C:\\Windows\\Fonts\\cour.ttf"
 
 # Telegram bot token
-TOKEN = "8310634159:AAHvmSzDYZtNfQZEfMWpNXNWZE3q3dQZ8Fk"
+TOKEN = "YOUR_TOKEN"
 
 # Valid stores, You can add your own. Uploads logo of your choice into logos folder
 VALID_STORES = ["Starbucks", "Chanel","Apple", "Zara", "Bershka", "Gucci"]
@@ -260,3 +260,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
