@@ -1,5 +1,8 @@
 # Telegram Receipt Generator Bot 🤖🧾
 
+![5339423507991362572](https://github.com/user-attachments/assets/0f20c6c8-621a-4636-a41f-11f668a7716c)
+
+
 A fun Telegram bot that generates **custom receipt images** for various stores. Perfect for mock receipts, testing, or just playing around.
 
 ---
